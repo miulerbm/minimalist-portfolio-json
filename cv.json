@@ -13,7 +13,7 @@
     "email": "miulerbm00@gmail.com",
     "phone": "+51 946 574 201",
     "url": "https://miulerbm.netlify.app/",
-    "summary": "6 meses de experiencia profesional desarrollando aplicaciones Front End (ReactJS, TypeScript, JavaScript, HTML, CSS) y +2 años de experiencia en programación multipropósito (Python, SQL, C/C++, Java, MATLAB). Actualmente trabajando con el framework NextJS 14, utilizando herramientas como Redux y Tailwind CSS. Proficiencia en el idioma inglés a nivel oral/escrito.",
+    "summary": "6 meses de experiencia profesional en aplicaciones Front End (ReactJS, TypeScript, JavaScript, HTML, CSS) y +2 años en programación multipropósito (Python, SQL, C/C++, Java, MATLAB). Actualmente trabajando con el framework NextJS 14, utilizando herramientas como Redux y Tailwind CSS. Manejo del inglés a nivel oral/escrito.",
     "location": {
       "address": "Artigas 1814",
       "postalCode": "13000",
@@ -54,7 +54,7 @@
       "url": "https://company.com",
       "startDate": "2023-11-21",
       "endDate": null,
-      "summary": "Desarrollo de una aplicación de panel de gestión utilizando Next.js 14, construida con React, TypeScript y Tailwind. Realización de integraciones frontend y backend para proporcionar a los clientes métodos CRUD para la gestión de sus activos. Creación de una app multiplataforma, optimizada para dispositivos móviles, utilizando React Native.",
+      "summary": "Desarrollo de una aplicación backoffice con Next.js 14, construida con React, TypeScript y Tailwind. Integraciones para proporcionar a los clientes métodos CRUD para la gestión de sus activos. Creación de una app multiplataforma, optimizada para dispositivos móviles con React Native.",
       "highlights": ["Started the company"]
     },
     {
@@ -63,7 +63,7 @@
       "url": "https://www.universidadperu.com/empresas/invernegocios.php",
       "startDate": "2023-06-24",
       "endDate": "2023-03-16",
-      "summary": "Asistencia en actividades técnicas de instrumentación, centrándose en la calibración de sensores y dispositivos de telemetría para camiones y vehículos de transporte. Programación de PLC y resolución de problemas para garantizar un funcionamiento óptimo de las instalaciones eléctricas. Coordinación de actividades de mantenimiento proactivo y preventivo para mejorar la eficiencia operativa.",
+      "summary": "Programación de PLCs con software TIA Portal, CODESYS, en lenguaje LADDER y FBD. Programación de HMIs (Human Machine Interface). Troubleshooting y debugging de los programas. Asistencia en actividades de instrumentación, calibración de sensores y dispositivos de telemetría para vehículos de transporte.",
       "highlights": [""]
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://www.sti.com.pe/",
       "startDate": "2022-05-09",
       "endDate": "2023-02-17",
-      "summary": "Gestión de los indicadores del departamento de mantenimiento. Gestión e informes de los indicadores clave de rendimiento del departamento de dragado de la empresa. Apoyo en la traducción al inglés. Elaboración de instrucciones y documentación técnica para las operaciones de dragado.",
+      "summary": "Gestión de los indicadores del departamento de los departamentos de mantenimiento y dragado. Apoyo en la traducción de documentos y manuales al español. Elaboración de instrucciones y documentación técnica para las operaciones de dragado.",
       "highlights": [""]
     }
   ],
@@ -96,7 +96,7 @@
       "startDate": "2017-03-17",
       "endDate": "2022-02-01",
       "score": "3.5",
-      "summary": "Cursos de programación en lenguaje C/C++, Arduino, Python, Java, MATLAB. Programación funcional, POO, sistemas embebidos, bases de datos, inteligencia artificial, robótica. Asignaturas de mecánica, electrónica/electricidad, automatismos industriales y control de procesos."
+      "summary": "Programación en lenguaje C/C++, Arduino, Python, Java, MATLAB. Programación funcional, POO, sistemas embebidos, bases de datos, inteligencia artificial, robótica. Conocimientos de mecánica, electrónica/electricidad, automatismos industriales y control de procesos."
     }
   ],
   "awards": [
