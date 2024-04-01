@@ -10,16 +10,23 @@ import { education } from "@cv";
     {
       education.map(({ institution, startDate, endDate, area, summary }) => {
         const startYear = new Date(startDate).getFullYear();
-        const startMonth = new Date(startDate).toLocaleDateString("default", {
-          month: "short",
-        });
+        const startMonth =
+          endDate != null
+            ? new Date(startDate)
+                .toLocaleDateString("es-ES", {
+                  month: "short",
+                })
+                .replace(/^\w/, (c) => c.toUpperCase())
+            : "";
         const endYear =
           endDate != null ? new Date(endDate).getFullYear() : "Actualidad";
         const endMonth =
           endDate != null
-            ? new Date(endDate).toLocaleDateString("default", {
-                month: "short",
-              })
+            ? new Date(endDate)
+                .toLocaleDateString("es-ES", {
+                  month: "short",
+                })
+                .replace(/^\w/, (c) => c.toUpperCase())
             : "";
         const years = `${startMonth} ${startYear} - ${endMonth} ${endYear}`;
         return (
