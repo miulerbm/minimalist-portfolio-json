@@ -1,0 +1,25 @@
+---
+import Section from "@/components/Section.astro";
+
+import { basics } from "@cv";
+import { titles } from "@cv";
+const { summary } = basics;
+---
+
+<Section title={titles.about}>
+  <p>{summary}</p>
+</Section>
+
+<style>
+  @media (width > 580px) {
+    p {
+      text-align: justify;
+    }
+  }
+
+  @media (width <= 580px) {
+    p {
+      text-align: start;
+    }
+  }
+</style>

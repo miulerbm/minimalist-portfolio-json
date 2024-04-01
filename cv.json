@@ -1,0 +1,306 @@
+{
+  "titles": {
+    "about": "Sobre mí",
+    "experiencie": "Experiencia Laboral",
+    "education": "Educación",
+    "projects": "Proyectos",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Miuler Blas",
+    "label": "Front End Developer con experiencia en React (NextJS) & Ingeniero Mecatrónico por formación",
+    "image": "https://avatars.githubusercontent.com/u/81727184?v=4",
+    "email": "miulerbm00@gmail.com",
+    "phone": "+51 946 574 201",
+    "url": "https://miulerbm.netlify.app/",
+    "summary": "6 meses de experiencia profesional desarrollando aplicaciones Front End (ReactJS, TypeScript, JavaScript, HTML, CSS) y +2 años de experiencia en programación multipropósito (Python, SQL, C/C++, Java, MATLAB). Actualmente trabajando con el framework NextJS 14, utilizando herramientas como Redux y Tailwind CSS. Proficiencia en el idioma inglés a nivel oral/escrito.",
+    "location": {
+      "address": "Artigas 1814",
+      "postalCode": "13000",
+      "city": "Trujillo",
+      "countryCode": "PE",
+      "region": "Peru"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "miulerbm",
+        "url": "https://x.com/blas_miuler"
+      },
+      {
+        "network": "GitHub",
+        "username": "miulerbm",
+        "url": "https://github.com/miulerbm"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "miulerbm",
+        "url": "https://www.linkedin.com/in/miulerbm/"
+      }
+    ]
+  },
+  "contactActions": {
+    "mailTo": "Enviar un correo electrónico a ",
+    "toMail": " al correo ",
+    "callTo": "Llamar por teléfono a ",
+    "toNumber": " al número ",
+    "visitPage": "Visitar el perfil de ",
+    "in": " en "
+  },
+  "work": [
+    {
+      "name": "Gope",
+      "position": "Frontend Developer",
+      "url": "https://company.com",
+      "startDate": "2023-11-21",
+      "endDate": null,
+      "summary": "Desarrollo de una aplicación de panel de gestión utilizando Next.js 14, construida con React, TypeScript y Tailwind. Realización de integraciones frontend y backend para proporcionar a los clientes métodos CRUD para la gestión de sus activos. Creación de una app multiplataforma, optimizada para dispositivos móviles, utilizando React Native.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Invernegocios SAC",
+      "position": "PLC Programmer",
+      "url": "https://www.universidadperu.com/empresas/invernegocios.php",
+      "startDate": "2023-06-24",
+      "endDate": "2023-03-16",
+      "summary": "Asistencia en actividades técnicas de instrumentación, centrándose en la calibración de sensores y dispositivos de telemetría para camiones y vehículos de transporte. Programación de PLC y resolución de problemas para garantizar un funcionamiento óptimo de las instalaciones eléctricas. Coordinación de actividades de mantenimiento proactivo y preventivo para mejorar la eficiencia operativa.",
+      "highlights": [""]
+    },
+    {
+      "name": "Salaverry Teminal Internacional",
+      "position": "Practicante de ingeniería",
+      "url": "https://www.sti.com.pe/",
+      "startDate": "2022-05-09",
+      "endDate": "2023-02-17",
+      "summary": "Gestión de los indicadores del departamento de mantenimiento. Gestión e informes de los indicadores clave de rendimiento del departamento de dragado de la empresa. Apoyo en la traducción al inglés. Elaboración de instrucciones y documentación técnica para las operaciones de dragado.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional de Trujillo",
+      "url": "https://institution.com/",
+      "area": "Ingeniería Mecatrónica",
+      "studyType": "Pregrado",
+      "startDate": "2017-03-17",
+      "endDate": "2022-02-01",
+      "score": "3.5",
+      "summary": "Cursos de programación en lenguaje C/C++, Arduino, Python, Java, MATLAB. Programación funcional, POO, sistemas embebidos, bases de datos, inteligencia artificial, robótica. Asignaturas de mecánica, electrónica/electricidad, automatismos industriales y control de procesos."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "FullStack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "NextJS",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Móvil", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Redux",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo", "Frontend", "Backend", "FullStack"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo", "Backend"]
+    },
+    {
+      "name": "C#",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo", "Backend"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Gope App",
+      "isActive": true,
+      "description": "Conectando a las personas con las mejores actividades recreativas y turísticas.",
+      "highlights": ["React Native", "En desarrollo"],
+      "url": "https://www.linkedin.com/company/gope-app/"
+    },
+    {
+      "name": "Gope Backoffice",
+      "isActive": true,
+      "description": "Aplicación para gestión de recursos de turismo y entretenimiento (Gope App).",
+      "highlights": ["NextJS 14", "En desarrollo"],
+      "url": "https://www.linkedin.com/company/gope-app/"
+    },
+    {
+      "name": "Music Manager",
+      "isActive": false,
+      "description": "Gestor de álbumes de música con reproductor multimedia programado en C#.",
+      "highlights": ["MySQL", "C#"],
+      "url": "https://github.com/miulerbm/DatabaseSQLMusicAppWF"
+    },
+    {
+      "name": "React Calculator",
+      "isActive": false,
+      "description": "Interfaz para cálculos aritméticos implementada con ReactJS.",
+      "highlights": ["ReactJS", "JavaScript"],
+      "url": "https://github.com/miulerbm/react-calculator"
+    },
+    {
+      "name": "IBM Machine Learning",
+      "isActive": false,
+      "description": "Desafíos de Machine Learning desarrollados con Python en JupyterNotebooks.",
+      "highlights": ["Python", "Machine Learning"],
+      "url": "https://github.com/miulerbm/IBM_MachineLearning"
+    }
+  ],
+  "keyboardCommands": {
+    "searchCommand": "Buscar comando",
+    "push": "Pulsa",
+    "forOpenComPal": "para abrir la paleta de comandos.",
+    "visit": "Visitar"
+  }
+}
