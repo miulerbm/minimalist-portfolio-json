@@ -279,8 +279,8 @@
       "name": "Delivery App",
       "isActive": true,
       "description": "App delivery multiplataforma para IOS y Android utilizando Clean Architecture + MVVM.",
-      "highlights": ["NextJS 14", "En desarrollo"],
-      "url": "https://www.linkedin.com/company/gope-app/"
+      "highlights": ["React Native", "En desarrollo"],
+      "url": "https://github.com/miulerbm/AppDeliveryReactNative"
     },
     {
       "name": "Music Manager",
