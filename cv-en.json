@@ -276,18 +276,18 @@
       "url": "https://www.linkedin.com/company/gope-app/"
     },
     {
-      "name": "Music Manager",
-      "isActive": false,
-      "description": "Music album manager with multimedia player programmed in C#.",
-      "highlights": ["MySQL", "C#"],
-      "url": "https://github.com/miulerbm/DatabaseSQLMusicAppWF"
-    },
-    {
       "name": "Delivery App",
       "isActive": true,
       "description": "Cross-platform App delivery for IOS and Android using Clean Architecture + MVVM.",
       "highlights": ["NextJS 14", "En desarrollo"],
       "url": "https://www.linkedin.com/company/gope-app/"
+    },
+    {
+      "name": "Music Manager",
+      "isActive": false,
+      "description": "Music album manager with multimedia player programmed in C#.",
+      "highlights": ["MySQL", "C#"],
+      "url": "https://github.com/miulerbm/DatabaseSQLMusicAppWF"
     },
     {
       "name": "React Calculator",
