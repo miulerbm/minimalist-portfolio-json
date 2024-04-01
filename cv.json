@@ -276,6 +276,13 @@
       "url": "https://www.linkedin.com/company/gope-app/"
     },
     {
+      "name": "Delivery App",
+      "isActive": true,
+      "description": "App delivery multiplataforma para IOS y Android utilizando Clean Architecture + MVVM.",
+      "highlights": ["NextJS 14", "En desarrollo"],
+      "url": "https://www.linkedin.com/company/gope-app/"
+    },
+    {
       "name": "Music Manager",
       "isActive": false,
       "description": "Gestor de álbumes de música con reproductor multimedia programado en C#.",
@@ -290,11 +297,11 @@
       "url": "https://github.com/miulerbm/react-calculator"
     },
     {
-      "name": "IBM Machine Learning",
+      "name": "Más proyectos",
       "isActive": false,
-      "description": "Desafíos de Machine Learning desarrollados con Python en JupyterNotebooks.",
-      "highlights": ["Python", "Machine Learning"],
-      "url": "https://github.com/miulerbm/IBM_MachineLearning"
+      "description": "Mis repos de GitHub.",
+      "highlights": ["Desarrollo", "Software"],
+      "url": "https://github.com/miulerbm?tab=repositories"
     }
   ],
   "keyboardCommands": {

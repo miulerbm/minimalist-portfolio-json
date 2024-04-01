@@ -283,6 +283,13 @@
       "url": "https://github.com/miulerbm/DatabaseSQLMusicAppWF"
     },
     {
+      "name": "Delivery App",
+      "isActive": true,
+      "description": "Cross-platform App delivery for IOS and Android using Clean Architecture + MVVM.",
+      "highlights": ["NextJS 14", "En desarrollo"],
+      "url": "https://www.linkedin.com/company/gope-app/"
+    },
+    {
       "name": "React Calculator",
       "isActive": false,
       "description": "Interface for arithmetic calculations implemented with ReactJS.",
@@ -290,11 +297,11 @@
       "url": "https://github.com/miulerbm/react-calculator"
     },
     {
-      "name": "IBM Machine Learning",
+      "name": "More projects",
       "isActive": false,
-      "description": "Machine Learning challenges developed with Python in JupyterNotebooks.",
-      "highlights": ["Python", "Machine Learning"],
-      "url": "https://github.com/miulerbm/IBM_MachineLearning"
+      "description": "My GitHub repos.",
+      "highlights": ["Development", "Software"],
+      "url": "https://github.com/miulerbm?tab=repositories"
     }
   ],
   "keyboardCommands": {
